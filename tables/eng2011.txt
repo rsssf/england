@@ -1,6 +1,5 @@
 <!--
    source: http://rsssf.com/tablese/eng2011.html
-   html to text conversion on 2015-07-25 10:32:06 +0200
   -->
 
 
@@ -8,17 +7,12 @@
 ## England 2010/11
 
 =-=-=-=-=-=-=-=-=-=-=-=-=-=-=
-Premiership
-
-Cup Tournaments
-
-Championship
-
-Division 1
-
-Division 2
-
-Conference
+‹Premiership›
+‹Cup Tournaments›
+‹Championship›
+‹Division 1›
+‹Division 2›
+‹Conference›
 =-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
 #### Premiership
@@ -239,7 +233,7 @@ Wolverhampton Wand.  0-2  1-2  1-0  2-3  4-0  2-3  1-0  0-3  1-1  0-3  2-1  2-1 
 #### Cup Tournaments
 
 
-FA Cup | League Cup
+‹FA Cup› | ‹League Cup›
 
 **FA Cup**
 
@@ -588,7 +582,7 @@ Arsenal                 1-2 Birmingham City
 #### Championship
 
 
-Regular Stage | Promotion Playoff
+‹Regular Stage› | ‹Promotion Playoff›
 
 **Regular Stage**
 
@@ -597,10 +591,10 @@ Final Table:
  1.Queens Park Rangers     46  24 16  6  71-32  88  Promoted
  2.Norwich City            46  23 15  8  83-58  84  Promoted
 --------------------------------------------------
- 3.Swansea City            46  24  8 14  69-42  80  Promotion Playoff
- 4.Cardiff City            46  23 11 12  76-54  80  Promotion Playoff
- 5.Reading                 46  20 17  9  77-51  77  Promotion Playoff
- 6.Nottingham Forest       46  20 15 11  69-50  75  Promotion Playoff
+ 3.Swansea City            46  24  8 14  69-42  80  ‹Promotion Playoff›
+ 4.Cardiff City            46  23 11 12  76-54  80  ‹Promotion Playoff›
+ 5.Reading                 46  20 17  9  77-51  77  ‹Promotion Playoff›
+ 6.Nottingham Forest       46  20 15 11  69-50  75  ‹Promotion Playoff›
  - - - - - - - - - - - - - - - - - - - - - - - - -
  7.Leeds United            46  19 15 12  81-70  72
  8.Burnley                 46  18 14 14  65-61  68
@@ -675,7 +669,7 @@ NB: Swansea City promoted
 #### Division 1
 
 
-Regular Stage | Promotion Playoff
+‹Regular Stage› | ‹Promotion Playoff›
 
 **Regular Stage**
 
@@ -684,10 +678,10 @@ Final Table:
  1.Brighton & Hove Albion  46  28 11  7  85-40  95  Promoted
  2.Southampton             46  28  8 10  86-38  92  Promoted
 --------------------------------------------------
- 3.Huddersfield Town       46  25 12  9  77-48  87  Promotion Playoff
- 4.Peterborough United     46  23 10 13 106-75  79  Promotion Playoff
- 5.Milton Keynes Dons      46  23  8 15  67-60  77  Promotion Playoff
- 6.AFC Bournemouth         46  19 14 13  75-54  71  Promotion Playoff
+ 3.Huddersfield Town       46  25 12  9  77-48  87  ‹Promotion Playoff›
+ 4.Peterborough United     46  23 10 13 106-75  79  ‹Promotion Playoff›
+ 5.Milton Keynes Dons      46  23  8 15  67-60  77  ‹Promotion Playoff›
+ 6.AFC Bournemouth         46  19 14 13  75-54  71  ‹Promotion Playoff›
  - - - - - - - - - - - - - - - - - - - - - - - - -
  7.Leyton Orient           46  19 13 14  71-62  70
  8.Exeter City             46  20 10 16  66-73  70
@@ -764,7 +758,7 @@ NB: Peterborough United promoted
 #### Division 2
 
 
-Regular Stage | Promotion Playoff
+‹Regular Stage› | ‹Promotion Playoff›
 
 **Regular Stage**
 
@@ -774,10 +768,10 @@ Final Table:
  2.Bury                    46  23 12 11  82-50  81  Promoted
  3.Wycombe Wanderers       46  22 14 10  69-50  80  Promoted
 --------------------------------------------------
- 4.Shrewsbury Town         46  22 13 11  72-49  79  Promotion Playoff
- 5.Accrington Stanley      46  18 19  9  73-55  73  Promotion Playoff
- 6.Stevenage               46  18 15 13  62-45  69  Promotion Playoff
- 7.Torquay United          46  17 18 11  74-53  68  [-1]  Promotion Playoff
+ 4.Shrewsbury Town         46  22 13 11  72-49  79  ‹Promotion Playoff›
+ 5.Accrington Stanley      46  18 19  9  73-55  73  ‹Promotion Playoff›
+ 6.Stevenage               46  18 15 13  62-45  69  ‹Promotion Playoff›
+ 7.Torquay United          46  17 18 11  74-53  68  [-1]  ‹Promotion Playoff›
  - - - - - - - - - - - - - - - - - - - - - - - - -
  8.Gillingham              46  17 17 12  67-57  68
  9.Rotherham United        46  17 15 14  75-60  66
@@ -853,7 +847,7 @@ NB: Stevenage promoted
 #### Conference
 
 
-Regular Stage | Promotion Playoff
+‹Regular Stage› | ‹Promotion Playoff›
 
 **Regular Stage**
 
@@ -861,10 +855,10 @@ Final Table:
 
  1.Crawley Town            46  31 12  3  93-30 105  Promoted
 --------------------------------------------------
- 2.AFC Wimbledon           46  27  9 10  83-47  90  Promotion Playoff
- 3.Luton Town              46  23 15  8  85-37  84  Promotion Playoff
- 4.Wrexham                 46  22 15  9  66-49  81  Promotion Playoff
- 5.Fleetwood Town          46  22 12 12  68-42  78  Promotion Playoff
+ 2.AFC Wimbledon           46  27  9 10  83-47  90  ‹Promotion Playoff›
+ 3.Luton Town              46  23 15  8  85-37  84  ‹Promotion Playoff›
+ 4.Wrexham                 46  22 15  9  66-49  81  ‹Promotion Playoff›
+ 5.Fleetwood Town          46  22 12 12  68-42  78  ‹Promotion Playoff›
  - - - - - - - - - - - - - - - - - - - - - - - - -
  6.Kidderminster Harriers  46  20 17  9  74-60  72  [-5]
  7.Darlington              46  18 17 11  61-42  71
@@ -918,25 +912,25 @@ NB: AFC Wimbledon promoted
 
 =-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
-2009/10.
+‹2009/10›.
 
-2011/12.
+‹2011/12›.
 
-list of champions.
+‹list of champions›.
 
-list of 2nd division champions.
+‹list of 2nd division champions›.
 
-list of full tables.
+‹list of full tables›.
 
-list of divisional movements.
+‹list of divisional movements›.
 
-list of cup winners.
+‹list of cup winners›.
 
-list of super cup (charity shield) winners.
+‹list of super cup (charity shield) winners›.
 
-list of league cup winners.
+‹list of league cup winners›.
 
-list of league trophy winners.
+‹list of league trophy winners›.
 =-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
 ## About this document
@@ -944,16 +938,14 @@ list of league trophy winners.
 Thanks to Ian Kay for a correction
 
 Prepared and maintained by Ian King, Karel Stokkermans and Jan Schoenmakers for the
-Rec.Sport.Soccer Statistics Foundation
+‹Rec.Sport.Soccer Statistics Foundation›
 
 
 Authors: Ian King, Karel Stokkermans and Jan Schoenmakers
-
 
 Last updated: 5 Feb 2015
 
 
 **(C) Copyright Ian King, Karel Stokkermans, Jan Schoenmakers and RSSSF 2010/15**
-
 You are free to copy this document in whole or part provided that proper
 acknowledgement is given to the authors. All rights reserved.

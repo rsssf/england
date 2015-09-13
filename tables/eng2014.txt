@@ -1,6 +1,5 @@
 <!--
    source: http://rsssf.com/tablese/eng2014.html
-   html to text conversion on 2015-07-25 10:32:08 +0200
   -->
 
 
@@ -8,17 +7,12 @@
 ## England 2013/14
 
 =-=-=-=-=-=-=-=-=-=-=-=-=-=-=
-Premier League
-
-Cup Tournaments
-
-Championship
-
-Division 1
-
-Division 2
-
-Conference
+‹Premier League›
+‹Cup Tournaments›
+‹Championship›
+‹Division 1›
+‹Division 2›
+‹Conference›
 =-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
 #### Premier League
@@ -628,7 +622,7 @@ Final Table:
 #### Cup Tournaments
 
 
-FA Cup | League Cup
+‹FA Cup› | ‹League Cup›
 
 **FA Cup**
 
@@ -972,14 +966,14 @@ Manchester United       2-1 Sunderland              [aet, 1-2 pen]
 
 Final [Mar 2, London]
 Manchester City         3-1 Sunderland
-  [Yaya Tour� 55, Nasri 56, Jes�s Navas 90; Borini 10]
+  [Yaya Touré 55, Nasri 56, Jesús Navas 90; Borini 10]
 
 =-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
 #### Championship
 
 
-Regular Stage | Promotion Playoff
+‹Regular Stage› | ‹Promotion Playoff›
 
 **Regular Stage**
 
@@ -988,10 +982,10 @@ Final Table:
  1.Leicester City          46  31  9  6  83-43 102  Promoted
  2.Burnley                 46  26 15  5  72-37  93  Promoted
 --------------------------------------------------
- 3.Derby County            46  25 10 11  84-52  85  Promotion Playoff
- 4.Queens Park Rangers     46  23 11 12  60-44  80  Promotion Playoff
- 5.Wigan Athletic          46  21 10 15  61-48  73  Promotion Playoff
- 6.Brighton & Hove Albion  46  19 15 12  55-40  72  Promotion Playoff
+ 3.Derby County            46  25 10 11  84-52  85  ‹Promotion Playoff›
+ 4.Queens Park Rangers     46  23 11 12  60-44  80  ‹Promotion Playoff›
+ 5.Wigan Athletic          46  21 10 15  61-48  73  ‹Promotion Playoff›
+ 6.Brighton & Hove Albion  46  19 15 12  55-40  72  ‹Promotion Playoff›
  - - - - - - - - - - - - - - - - - - - - - - - - -
  7.Reading                 46  19 14 13  70-56  71
  8.Blackburn Rovers        46  18 16 12  70-62  70
@@ -1038,7 +1032,7 @@ Derby         0-1 QPR
 #### Division 1
 
 
-Regular Stage | Promotion Playoff
+‹Regular Stage› | ‹Promotion Playoff›
 
 **Regular Stage**
 
@@ -1047,10 +1041,10 @@ Final Table:
  1.Wolverhampton Wanderers 46  31 10  5  89-31 103  Promoted
  2.Brentford               46  28 10  8  72-43  94  Promoted
 --------------------------------------------------
- 3.Leyton Orient           46  25 11 10  85-45  86  Promotion Playoff
- 4.Rotherham United        46  24 14  8  86-58  86  Promotion Playoff
- 5.Preston North End       46  23 16  7  72-46  85  Promotion Playoff
- 6.Peterborough United     46  23  5 18  72-58  74  Promotion Playoff
+ 3.Leyton Orient           46  25 11 10  85-45  86  ‹Promotion Playoff›
+ 4.Rotherham United        46  24 14  8  86-58  86  ‹Promotion Playoff›
+ 5.Preston North End       46  23 16  7  72-46  85  ‹Promotion Playoff›
+ 6.Peterborough United     46  23  5 18  72-58  74  ‹Promotion Playoff›
  - - - - - - - - - - - - - - - - - - - - - - - - -
  7.Sheffield United        46  18 13 15  48-46  67
  8.Swindon Town            46  19  9 18  63-59  66
@@ -1095,7 +1089,7 @@ Leyton        2-2 Rotherham     [aet, 3-4 pen]
 #### Division 2
 
 
-Regular Stage | Promotion Playoff
+‹Regular Stage› | ‹Promotion Playoff›
 
 **Regular Stage**
 
@@ -1105,10 +1099,10 @@ Final Table:
  2.Scunthorpe United       46  20 21  5  68-44  81  Promoted
  3.Rochdale                46  24  9 13  69-48  81  Promoted
 --------------------------------------------------
- 4.Fleetwood Town          46  22 10 14  66-52  76  Promotion Playoff
- 5.Southend United         46  19 15 12  56-39  72  Promotion Playoff
- 6.Burton Albion           46  19 15 12  47-42  72  Promotion Playoff
- 7.York City               46  18 17 11  52-41  71  Promotion Playoff
+ 4.Fleetwood Town          46  22 10 14  66-52  76  ‹Promotion Playoff›
+ 5.Southend United         46  19 15 12  56-39  72  ‹Promotion Playoff›
+ 6.Burton Albion           46  19 15 12  47-42  72  ‹Promotion Playoff›
+ 7.York City               46  18 17 11  52-41  71  ‹Promotion Playoff›
  - - - - - - - - - - - - - - - - - - - - - - - - -
  8.Oxford United           46  16 14 16  53-50  62
  9.Dagenham & Redbridge    46  15 15 16  53-59  60
@@ -1155,7 +1149,7 @@ Fleetwood     1-0 Burton
 
 
 
-Regular Stage | Promotion Playoff
+‹Regular Stage› | ‹Promotion Playoff›
 
 **Regular Stage**
 
@@ -1163,10 +1157,10 @@ Final Table:
 
  1.Luton Town              46  30 11  5 102-35 101  Promoted
 --------------------------------------------------
- 2.Cambridge United        46  23 13 10  72-35  82  Promotion Playoff
- 3.Gateshead               46  22 13 11  72-50  79  Promotion Playoff
- 4.Grimsby Town            46  22 12 12  65-46  78  Promotion Playoff
- 5.Halifax Town            46  22 11 13  85-58  77  Promotion Playoff
+ 2.Cambridge United        46  23 13 10  72-35  82  ‹Promotion Playoff›
+ 3.Gateshead               46  22 13 11  72-50  79  ‹Promotion Playoff›
+ 4.Grimsby Town            46  22 12 12  65-46  78  ‹Promotion Playoff›
+ 5.Halifax Town            46  22 11 13  85-58  77  ‹Promotion Playoff›
  - - - - - - - - - - - - - - - - - - - - - - - - -
  6.Braintree Town          46  21 11 14  57-39  74
  7.Kidderminster Harriers  46  20 12 14  66-59  72
@@ -1215,40 +1209,38 @@ Cambridge     2-1 Gateshead
 
 =-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
-2012/13.
+‹2012/13›.
 
-2014/15.
+‹2014/15›.
 
-list of champions.
+‹list of champions›.
 
-list of 2nd division champions.
+‹list of 2nd division champions›.
 
-list of full tables.
+‹list of full tables›.
 
-list of divisional movements.
+‹list of divisional movements›.
 
-list of cup winners.
+‹list of cup winners›.
 
-list of super cup (charity shield) winners.
+‹list of super cup (charity shield) winners›.
 
-list of league cup winners.
+‹list of league cup winners›.
 
-list of league trophy winners.
+‹list of league trophy winners›.
 =-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
 ## About this document
 
 Prepared and maintained by Ian King and Karel Stokkermans for the
-Rec.Sport.Soccer Statistics Foundation
+‹Rec.Sport.Soccer Statistics Foundation›
 
 
 Authors: Ian King and Karel Stokkermans
-
 
 Last updated: 5 Feb 2015
 
 
 **(C) Copyright Ian King, Karel Stokkermans and RSSSF 2013/15**
-
 You are free to copy this document in whole or part provided that proper
 acknowledgement is given to the authors. All rights reserved.

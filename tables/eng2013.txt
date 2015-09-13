@@ -1,6 +1,5 @@
 <!--
    source: http://rsssf.com/tablese/eng2013.html
-   html to text conversion on 2015-07-25 10:32:07 +0200
   -->
 
 
@@ -8,17 +7,12 @@
 ## England 2012/13
 
 =-=-=-=-=-=-=-=-=-=-=-=-=-=-=
-Premiership
-
-Cup Tournaments
-
-Championship
-
-Division 1
-
-Division 2
-
-Conference
+‹Premiership›
+‹Cup Tournaments›
+‹Championship›
+‹Division 1›
+‹Division 2›
+‹Conference›
 =-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
 #### Premiership
@@ -463,6 +457,7 @@ West Bromwich 2-1 Swansea
 QPR           3-1 Sunderland
 Norwich       0-0 Southampton
 [Mar 10]
+
 Newcastle     2-1 Stoke
 Liverpool     3-2 Tottenham
 [Apr 16]
@@ -633,7 +628,7 @@ Final Table:
 #### Cup Tournaments
 
 
-FA Cup | League Cup
+‹FA Cup› | ‹League Cup›
 
 **FA Cup**
 
@@ -995,7 +990,7 @@ Bradford City           0-5 Swansea City
 #### Championship
 
 
-Regular Stage | Promotion Playoff
+‹Regular Stage› | ‹Promotion Playoff›
 
 **Regular Stage**
 
@@ -1004,10 +999,10 @@ Final Table:
  1.Cardiff City            46  25 12  9  72-45  87  Promoted
  2.Hull City               46  24  7 15  61-52  79  Promoted
 --------------------------------------------------
- 3.Watford                 46  23  8 15  85-58  77  Promotion Playoff
- 4.Brighton & Hove Albion  46  19 18  9  69-43  75  Promotion Playoff
- 5.Crystal Palace          46  19 15 12  73-62  72  Promotion Playoff
- 6.Leicester City          46  19 11 16  71-48  68  Promotion Playoff
+ 3.Watford                 46  23  8 15  85-58  77  ‹Promotion Playoff›
+ 4.Brighton & Hove Albion  46  19 18  9  69-43  75  ‹Promotion Playoff›
+ 5.Crystal Palace          46  19 15 12  73-62  72  ‹Promotion Playoff›
+ 6.Leicester City          46  19 11 16  71-48  68  ‹Promotion Playoff›
  - - - - - - - - - - - - - - - - - - - - - - - - -
  7.Bolton Wanderers        46  18 14 14  69-61  68
  8.Nottingham Forest       46  17 16 13  63-59  67
@@ -1055,7 +1050,7 @@ NB: Crystal Palace promoted
 #### Division 1
 
 
-Regular Stage | Promotion Playoff
+‹Regular Stage› | ‹Promotion Playoff›
 
 **Regular Stage**
 
@@ -1064,10 +1059,10 @@ Final Table:
  1.Doncaster Rovers        46  25  9 12  62-44  84  Promoted
  2.AFC Bournemouth         46  24 11 11  76-53  83  Promoted
 --------------------------------------------------
- 3.Brentford               46  21 16  9  62-47  79  Promotion Playoff
- 4.Yeovil Town             46  23  8 15  71-56  77  Promotion Playoff
- 5.Sheffield United        46  19 18  9  56-42  75  Promotion Playoff
- 6.Swindon Town            46  20 14 12  72-39  74  Promotion Playoff
+ 3.Brentford               46  21 16  9  62-47  79  ‹Promotion Playoff›
+ 4.Yeovil Town             46  23  8 15  71-56  77  ‹Promotion Playoff›
+ 5.Sheffield United        46  19 18  9  56-42  75  ‹Promotion Playoff›
+ 6.Swindon Town            46  20 14 12  72-39  74  ‹Promotion Playoff›
  - - - - - - - - - - - - - - - - - - - - - - - - -
  7.Leyton Orient           46  21  8 17  55-48  71
  8.Milton Keynes Dons      46  19 13 14  62-45  70
@@ -1113,7 +1108,7 @@ NB: Yeovil Town promoted
 #### Division 2
 
 
-Regular Stage | Promotion Playoff
+‹Regular Stage› | ‹Promotion Playoff›
 
 **Regular Stage**
 
@@ -1123,10 +1118,10 @@ Final Table:
  2.Rotherham United        46  24  7 15  74-59  79  Promoted
  3.Port Vale               46  21 15 10  87-52  78  Promoted
 --------------------------------------------------
- 4.Burton Albion           46  22 10 14  71-65  76  Promotion Playoff
- 5.Cheltenham Town         46  20 15 11  58-51  75  Promotion Playoff
- 6.Northampton Town        46  21 10 15  64-55  73  Promotion Playoff
- 7.Bradford City           46  18 15 13  63-52  69  Promotion Playoff
+ 4.Burton Albion           46  22 10 14  71-65  76  ‹Promotion Playoff›
+ 5.Cheltenham Town         46  20 15 11  58-51  75  ‹Promotion Playoff›
+ 6.Northampton Town        46  21 10 15  64-55  73  ‹Promotion Playoff›
+ 7.Bradford City           46  18 15 13  63-52  69  ‹Promotion Playoff›
  - - - - - - - - - - - - - - - - - - - - - - - - -
  8.Chesterfield            46  18 13 15  60-45  67
  9.Oxford United           46  19  8 19  60-61  65
@@ -1170,7 +1165,7 @@ NB: Bradford City promoted
 
 
 
-Regular Stage | Promotion Playoff
+‹Regular Stage› | ‹Promotion Playoff›
 
 **Regular Stage**
 
@@ -1178,10 +1173,10 @@ Final Table:
 
  1.Mansfield Town          46  30  5 11  92-52  95  Promoted
 --------------------------------------------------
- 2.Kidderminster Harriers  46  28  9  9  82-40  93  Promotion Playoff
- 3.Newport County          46  25 10 11  85-60  85  Promotion Playoff
- 4.Grimsby Town            46  23 14  9  70-38  83  Promotion Playoff
- 5.Wrexham                 46  22 14 10  74-45  80  Promotion Playoff
+ 2.Kidderminster Harriers  46  28  9  9  82-40  93  ‹Promotion Playoff›
+ 3.Newport County          46  25 10 11  85-60  85  ‹Promotion Playoff›
+ 4.Grimsby Town            46  23 14  9  70-38  83  ‹Promotion Playoff›
+ 5.Wrexham                 46  22 14 10  74-45  80  ‹Promotion Playoff›
  - - - - - - - - - - - - - - - - - - - - - - - - -
  6.Hereford United         46  19 13 14  73-63  70
  7.Luton Town              46  18 13 15  70-62  67
@@ -1230,40 +1225,38 @@ NB: Newport County promoted
 
 =-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
-2011/12.
+‹2011/12›.
 
-2013/14.
+‹2013/14›.
 
-list of champions.
+‹list of champions›.
 
-list of 2nd division champions.
+‹list of 2nd division champions›.
 
-list of full tables.
+‹list of full tables›.
 
-list of divisional movements.
+‹list of divisional movements›.
 
-list of cup winners.
+‹list of cup winners›.
 
-list of super cup (charity shield) winners.
+‹list of super cup (charity shield) winners›.
 
-list of league cup winners.
+‹list of league cup winners›.
 
-list of league trophy winners.
+‹list of league trophy winners›.
 =-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
 ## About this document
 
 Prepared and maintained by Karel Stokkermans for the
-Rec.Sport.Soccer Statistics Foundation
+‹Rec.Sport.Soccer Statistics Foundation›
 
 
 Author: Karel Stokkermans
-
 
 Last updated: 5 Feb 2015
 
 
 **(C) Copyright Karel Stokkermans and RSSSF 2013/15**
-
 You are free to copy this document in whole or part provided that proper
 acknowledgement is given to the author. All rights reserved.

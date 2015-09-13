@@ -1,6 +1,5 @@
 <!--
    source: http://rsssf.com/tablese/eng2012.html
-   html to text conversion on 2015-07-25 10:32:07 +0200
   -->
 
 
@@ -8,17 +7,12 @@
 ## England 2011/12
 
 =-=-=-=-=-=-=-=-=-=-=-=-=-=-=
-Premiership
-
-Cup Tournaments
-
-Championship
-
-Division 1
-
-Division 2
-
-Conference
+‹Premiership›
+‹Cup Tournaments›
+‹Championship›
+‹Division 1›
+‹Division 2›
+‹Conference›
 =-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
 #### Premiership
@@ -54,7 +48,7 @@ Final Table:
 #### Cup Tournaments
 
 
-FA Cup | League Cup
+‹FA Cup› | ‹League Cup›
 
 **FA Cup**
 
@@ -407,7 +401,7 @@ Cardiff City            2-2 Liverpool               [aet, 2-3 pen]
 #### Championship
 
 
-Regular Stage | Promotion Playoff
+‹Regular Stage› | ‹Promotion Playoff›
 
 **Regular Stage**
 
@@ -416,10 +410,10 @@ Final Table:
  1.Reading                 46  27  8 11  69-41  89  Promoted
  2.Southampton             46  26 10 10  85-46  88  Promoted
 --------------------------------------------------
- 3.West Ham United         46  24 14  8  81-48  86  Promotion Playoff
- 4.Birmingham City         46  20 16 10  78-51  76  Promotion Playoff
- 5.Blackpool               46  20 15 11  79-59  75  Promotion Playoff
- 6.Cardiff City            46  19 18  9  66-53  75  Promotion Playoff
+ 3.West Ham United         46  24 14  8  81-48  86  ‹Promotion Playoff›
+ 4.Birmingham City         46  20 16 10  78-51  76  ‹Promotion Playoff›
+ 5.Blackpool               46  20 15 11  79-59  75  ‹Promotion Playoff›
+ 6.Cardiff City            46  19 18  9  66-53  75  ‹Promotion Playoff›
  - - - - - - - - - - - - - - - - - - - - - - - - -
  7.Middlesbrough           46  18 16 12  52-51  70
  8.Hull City               46  19 11 16  47-44  68
@@ -469,7 +463,7 @@ NB: West Ham United promoted
 #### Division 1
 
 
-Regular Stage | Promotion Playoff
+‹Regular Stage› | ‹Promotion Playoff›
 
 **Regular Stage**
 
@@ -478,10 +472,10 @@ Final Table:
  1.Charlton Athletic       46  30 11  5  82-36 101  Promoted
  2.Sheffield Wednesday     46  28  9  9  81-48  93  Promoted
 --------------------------------------------------
- 3.Sheffield United        46  27  9 10  92-51  90  Promotion Playoff
- 4.Huddersfield Town       46  21 18  7  79-47  81  Promotion Playoff
- 5.Milton Keynes Dons      46  22 14 10  84-47  80  Promotion Playoff
- 6.Stevenage               46  18 19  9  69-44  73  Promotion Playoff
+ 3.Sheffield United        46  27  9 10  92-51  90  ‹Promotion Playoff›
+ 4.Huddersfield Town       46  21 18  7  79-47  81  ‹Promotion Playoff›
+ 5.Milton Keynes Dons      46  22 14 10  84-47  80  ‹Promotion Playoff›
+ 6.Stevenage               46  18 19  9  69-44  73  ‹Promotion Playoff›
  - - - - - - - - - - - - - - - - - - - - - - - - -
  7.Notts County            46  21 10 15  75-63  73
  8.Carlisle United         46  18 15 13  65-66  69
@@ -529,7 +523,7 @@ NB: Huddersfield Town promoted
 #### Division 2
 
 
-Regular Stage | Promotion Playoff
+‹Regular Stage› | ‹Promotion Playoff›
 
 **Regular Stage**
 
@@ -539,10 +533,10 @@ Final Table:
  2.Shrewsbury Town         46  26 10 10  66-41  88  Promoted
  3.Crawley Town            46  23 15  8  76-54  84  Promoted
 --------------------------------------------------
- 4.Southend United         46  25  8 13  77-48  83  Promotion Playoff
- 5.Torquay United          46  23 12 11  63-50  81  Promotion Playoff
- 6.Cheltenham Town         46  23  8 15  66-50  77  Promotion Playoff
- 7.Crewe Alexandra         46  20 12 14  67-59  72  Promotion Playoff
+ 4.Southend United         46  25  8 13  77-48  83  ‹Promotion Playoff›
+ 5.Torquay United          46  23 12 11  63-50  81  ‹Promotion Playoff›
+ 6.Cheltenham Town         46  23  8 15  66-50  77  ‹Promotion Playoff›
+ 7.Crewe Alexandra         46  20 12 14  67-59  72  ‹Promotion Playoff›
  - - - - - - - - - - - - - - - - - - - - - - - - -
  8.Gillingham              46  20 10 16  79-62  70
  9.Oxford United           46  17 17 12  59-48  68
@@ -591,7 +585,7 @@ NB: Crewe Alexandra promoted
 #### Conference
 
 
-Regular Stage | Promotion Playoff
+‹Regular Stage› | ‹Promotion Playoff›
 
 **Regular Stage**
 
@@ -599,10 +593,10 @@ Final Table:
 
  1.Fleetwood Town          46  31 10  5 102-48 103  Promoted
 --------------------------------------------------
- 2.Wrexham                 46  30  8  8  85-33  98  Promotion Playoff
- 3.Mansfield Town          46  25 14  7  87-48  89  Promotion Playoff
- 4.York City               46  23 14  9  81-45  83  Promotion Playoff
- 5.Luton Town              46  22 15  9  78-42  81  Promotion Playoff
+ 2.Wrexham                 46  30  8  8  85-33  98  ‹Promotion Playoff›
+ 3.Mansfield Town          46  25 14  7  87-48  89  ‹Promotion Playoff›
+ 4.York City               46  23 14  9  81-45  83  ‹Promotion Playoff›
+ 5.Luton Town              46  22 15  9  78-42  81  ‹Promotion Playoff›
  - - - - - - - - - - - - - - - - - - - - - - - - -
  6.Kidderminster Harriers  46  22 10 14  82-63  76
  7.Southport               46  21 13 12  72-69  76
@@ -652,40 +646,38 @@ NB: York City promoted
 
 =-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
-2010/11.
+‹2010/11›.
 
-2012/13.
+‹2012/13›.
 
-list of champions.
+‹list of champions›.
 
-list of 2nd division champions.
+‹list of 2nd division champions›.
 
-list of full tables.
+‹list of full tables›.
 
-list of divisional movements.
+‹list of divisional movements›.
 
-list of cup winners.
+‹list of cup winners›.
 
-list of super cup (charity shield) winners.
+‹list of super cup (charity shield) winners›.
 
-list of league cup winners.
+‹list of league cup winners›.
 
-list of league trophy winners.
+‹list of league trophy winners›.
 =-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
 ## About this document
 
 Prepared and maintained by Karel Stokkermans for the
-Rec.Sport.Soccer Statistics Foundation
+‹Rec.Sport.Soccer Statistics Foundation›
 
 
 Author: Karel Stokkermans
-
 
 Last updated: 5 Feb 2015
 
 
 **(C) Copyright Karel Stokkermans and RSSSF 2013/15**
-
 You are free to copy this document in whole or part provided that proper
 acknowledgement is given to the author. All rights reserved.
