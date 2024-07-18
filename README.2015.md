@@ -1,4 +1,3 @@
-
 # England (and Wales)
 
 football.db RSSSF (Rec.Sport.Soccer Statistics Foundation) Archive Data for
@@ -16,9 +15,3 @@ _Last Update: 2015-09-13 17:55:37 +0200_
 | 2010-11 | [leaguecup.txt](2010-11/leaguecup.txt) | 7 |
 
 
-
-## Questions? Comments?
-
-Send them along to the
-[Open Sports & Friends Forum](http://groups.google.com/group/opensport).
-Thanks!
