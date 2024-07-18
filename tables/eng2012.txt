@@ -1,5 +1,5 @@
 <!--
-   source: http://rsssf.com/tablese/eng2012.html
+   source: https://rsssf.org/tablese/eng2012.html
   -->
 
 
@@ -7,15 +7,15 @@
 ## England 2011/12
 
 =-=-=-=-=-=-=-=-=-=-=-=-=-=-=
-‹Premiership›
-‹Cup Tournaments›
-‹Championship›
-‹Division 1›
-‹Division 2›
-‹Conference›
+‹Premiership, see §premier›
+‹Cup Tournaments, see §cups›
+‹Championship, see §champ›
+‹Division 1, see §first›
+‹Division 2, see §second›
+‹Conference, see §conf›
 =-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
-#### Premiership
+#### Premiership  ‹§premier›
 
 
 Final Table:
@@ -45,12 +45,12 @@ Final Table:
 
 =-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
-#### Cup Tournaments
+#### Cup Tournaments  ‹§cups›
 
 
-‹FA Cup› | ‹League Cup›
+‹FA Cup, see §facup› | ‹League Cup, see §leaguecup›
 
-**FA Cup**
+**FA Cup  ‹§facup›**
 
 Round 1
 [Nov 11]
@@ -86,7 +86,7 @@ Oldham Athletic         3-1 Burton Albion
 Plymouth Argyle         3-3 Stourbridge
 Port Vale               0-0 Grimsby Town
 Preston North End       0-0 Southend United
-Redbridge Forest        0-0 Oxford City
+Redbridge FC            0-0 Oxford City
 Sheffield United        3-0 Oxford United
 Southport               1-2 Barnet
 Sutton United           1-0 Kettering Town
@@ -103,7 +103,7 @@ Stourbridge             2-0 Plymouth Argyle
 Aldershot Town          2-0 Maidenhead United
 Gillingham              3-2 Bournemouth
 Grimsby Town            1-0 Port Vale
-Oxford City             1-2 Redbridge Forest        [aet]
+Oxford City             1-2 Redbridge FC            [aet]
 Scunthorpe United       0-1 AFC Wimbledon
 Southend United         1-0 Preston North End
 Tamworth                1-0 Hinckley United
@@ -123,7 +123,7 @@ Brentford               0-1 Wrexham
 Charlton Athletic       2-0 Carlisle United
 Chelmsford City         1-1 Macclesfield Town
 Colchester United       0-1 Swindon Town
-Crawley Town            5-0 Redbridge Forest
+Crawley Town            5-0 Redbridge FC
 Dagenham & Redbridge    1-1 Walsall
 Gateshead               1-2 Tamworth
 Leyton Orient           0-1 Gillingham
@@ -261,7 +261,7 @@ Tottenham Hotspur       1-5 Chelsea
 Final [May 5, London]
 Chelsea                 2-1 Liverpool
 
-**League Cup**
+**League Cup  ‹§leaguecup›**
 
 Preliminary Round [Jul 29]
 Crawley Town            3-2 AFC Wimbledon
@@ -398,22 +398,22 @@ Cardiff City            2-2 Liverpool               [aet, 2-3 pen]
 
 =-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
-#### Championship
+#### Championship  ‹§champ›
 
 
-‹Regular Stage› | ‹Promotion Playoff›
+‹Regular Stage, see §2reg› | ‹Promotion Playoff, see §2prom›
 
-**Regular Stage**
+**Regular Stage  ‹§2reg›**
 
 Final Table:
 
  1.Reading                 46  27  8 11  69-41  89  Promoted
  2.Southampton             46  26 10 10  85-46  88  Promoted
 --------------------------------------------------
- 3.West Ham United         46  24 14  8  81-48  86  ‹Promotion Playoff›
- 4.Birmingham City         46  20 16 10  78-51  76  ‹Promotion Playoff›
- 5.Blackpool               46  20 15 11  79-59  75  ‹Promotion Playoff›
- 6.Cardiff City            46  19 18  9  66-53  75  ‹Promotion Playoff›
+ 3.West Ham United         46  24 14  8  81-48  86  ‹Promotion Playoff, see §2prom›
+ 4.Birmingham City         46  20 16 10  78-51  76  ‹Promotion Playoff, see §2prom›
+ 5.Blackpool               46  20 15 11  79-59  75  ‹Promotion Playoff, see §2prom›
+ 6.Cardiff City            46  19 18  9  66-53  75  ‹Promotion Playoff, see §2prom›
  - - - - - - - - - - - - - - - - - - - - - - - - -
  7.Middlesbrough           46  18 16 12  52-51  70
  8.Hull City               46  19 11 16  47-44  68
@@ -437,7 +437,7 @@ Final Table:
 
 NB: Portsmouth 10 points deducted for entering administration
 
-**Promotion Playoff**
+**Promotion Playoff  ‹§2prom›**
 
 Semifinals
 
@@ -460,22 +460,22 @@ NB: West Ham United promoted
 
 =-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
-#### Division 1
+#### Division 1  ‹§first›
 
 
-‹Regular Stage› | ‹Promotion Playoff›
+‹Regular Stage, see §3reg› | ‹Promotion Playoff, see §3prom›
 
-**Regular Stage**
+**Regular Stage  ‹§3reg›**
 
 Final Table:
 
  1.Charlton Athletic       46  30 11  5  82-36 101  Promoted
  2.Sheffield Wednesday     46  28  9  9  81-48  93  Promoted
 --------------------------------------------------
- 3.Sheffield United        46  27  9 10  92-51  90  ‹Promotion Playoff›
- 4.Huddersfield Town       46  21 18  7  79-47  81  ‹Promotion Playoff›
- 5.Milton Keynes Dons      46  22 14 10  84-47  80  ‹Promotion Playoff›
- 6.Stevenage               46  18 19  9  69-44  73  ‹Promotion Playoff›
+ 3.Sheffield United        46  27  9 10  92-51  90  ‹Promotion Playoff, see §3prom›
+ 4.Huddersfield Town       46  21 18  7  79-47  81  ‹Promotion Playoff, see §3prom›
+ 5.Milton Keynes Dons      46  22 14 10  84-47  80  ‹Promotion Playoff, see §3prom›
+ 6.Stevenage               46  18 19  9  69-44  73  ‹Promotion Playoff, see §3prom›
  - - - - - - - - - - - - - - - - - - - - - - - - -
  7.Notts County            46  21 10 15  75-63  73
  8.Carlisle United         46  18 15 13  65-66  69
@@ -497,14 +497,14 @@ Final Table:
 23.Exeter City             46  10 12 24  46-75  42  Relegated
 24.Rochdale                46   8 14 24  47-81  38  Relegated
 
-**Promotion Playoff**
+**Promotion Playoff  ‹§3prom›**
 
 Semifinals
 
 First Legs
 [May 11]
 Stevenage     0-0 Sheffield U
-[May 152]
+[May 12]
 Milton Keynes 0-2 Huddersfield
 
 Second Legs
@@ -520,12 +520,12 @@ NB: Huddersfield Town promoted
 
 =-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
-#### Division 2
+#### Division 2  ‹§second›
 
 
-‹Regular Stage› | ‹Promotion Playoff›
+‹Regular Stage, see §4reg› | ‹Promotion Playoff, see §4prom›
 
-**Regular Stage**
+**Regular Stage  ‹§4reg›**
 
 Final Table:
 
@@ -533,10 +533,10 @@ Final Table:
  2.Shrewsbury Town         46  26 10 10  66-41  88  Promoted
  3.Crawley Town            46  23 15  8  76-54  84  Promoted
 --------------------------------------------------
- 4.Southend United         46  25  8 13  77-48  83  ‹Promotion Playoff›
- 5.Torquay United          46  23 12 11  63-50  81  ‹Promotion Playoff›
- 6.Cheltenham Town         46  23  8 15  66-50  77  ‹Promotion Playoff›
- 7.Crewe Alexandra         46  20 12 14  67-59  72  ‹Promotion Playoff›
+ 4.Southend United         46  25  8 13  77-48  83  ‹Promotion Playoff, see §4prom›
+ 5.Torquay United          46  23 12 11  63-50  81  ‹Promotion Playoff, see §4prom›
+ 6.Cheltenham Town         46  23  8 15  66-50  77  ‹Promotion Playoff, see §4prom›
+ 7.Crewe Alexandra         46  20 12 14  67-59  72  ‹Promotion Playoff, see §4prom›
  - - - - - - - - - - - - - - - - - - - - - - - - -
  8.Gillingham              46  20 10 16  79-62  70
  9.Oxford United           46  17 17 12  59-48  68
@@ -559,7 +559,7 @@ Final Table:
 
 NB: Port Vale 10 points deducted for entering administration
 
-**Promotion Playoff**
+**Promotion Playoff  ‹§4prom›**
 
 Semifinals
 
@@ -582,21 +582,21 @@ NB: Crewe Alexandra promoted
 
 =-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
-#### Conference
+#### Conference  ‹§conf›
 
 
-‹Regular Stage› | ‹Promotion Playoff›
+‹Regular Stage, see §5reg› | ‹Promotion Playoff, see §5prom›
 
-**Regular Stage**
+**Regular Stage  ‹§5reg›**
 
 Final Table:
 
  1.Fleetwood Town          46  31 10  5 102-48 103  Promoted
 --------------------------------------------------
- 2.Wrexham                 46  30  8  8  85-33  98  ‹Promotion Playoff›
- 3.Mansfield Town          46  25 14  7  87-48  89  ‹Promotion Playoff›
- 4.York City               46  23 14  9  81-45  83  ‹Promotion Playoff›
- 5.Luton Town              46  22 15  9  78-42  81  ‹Promotion Playoff›
+ 2.Wrexham                 46  30  8  8  85-33  98  ‹Promotion Playoff, see §5prom›
+ 3.Mansfield Town          46  25 14  7  87-48  89  ‹Promotion Playoff, see §5prom›
+ 4.York City               46  23 14  9  81-45  83  ‹Promotion Playoff, see §5prom›
+ 5.Luton Town              46  22 15  9  78-42  81  ‹Promotion Playoff, see §5prom›
  - - - - - - - - - - - - - - - - - - - - - - - - -
  6.Kidderminster Harriers  46  22 10 14  82-63  76
  7.Southport               46  21 13 12  72-69  76
@@ -624,7 +624,7 @@ NB: Darlington 10 points deducted for entering administration; they were relegat
     Kettering Town 3 points deducted for failing to pay creditors; they were relegated 2
       levels at the end of the season.
 
-**Promotion Playoff**
+**Promotion Playoff  ‹§5prom›**
 
 Semifinals
 
@@ -646,28 +646,30 @@ NB: York City promoted
 
 =-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
-‹2010/11›.
+‹2010/11, see page eng2011›.
 
-‹2012/13›.
+‹2012/13, see page eng2013›.
 
-‹list of champions›.
+‹list of champions, see page engchamp›.
 
-‹list of 2nd division champions›.
+‹list of 2nd division champions, see page eng2champ›.
 
-‹list of full tables›.
+‹list of full tables, see page ../engpaul/FLA/league›.
 
-‹list of divisional movements›.
+‹list of divisional movements, see page engall›.
 
-‹list of cup winners›.
+‹list of cup winners, see page engcuphist›.
 
-‹list of super cup (charity shield) winners›.
+‹list of super cup (charity shield) winners, see page engsupcuphist›.
 
-‹list of league cup winners›.
+‹list of league cup winners, see page engleagcuphist›.
 
-‹list of league trophy winners›.
+‹list of league trophy winners, see page engassmembcuphist›.
 =-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
-## About this document
+## About this document  ‹§about›
+
+Thanks to Martin Arenlind for corrections
 
 Prepared and maintained by Karel Stokkermans for the
 ‹Rec.Sport.Soccer Statistics Foundation›
@@ -675,9 +677,9 @@ Prepared and maintained by Karel Stokkermans for the
 
 Author: Karel Stokkermans
 
-Last updated: 5 Feb 2015
+Last updated: 28 Jan 2021
 
 
-**(C) Copyright Karel Stokkermans and RSSSF 2013/15**
+**(C) Copyright Karel Stokkermans and RSSSF 2013/21**
 You are free to copy this document in whole or part provided that proper
 acknowledgement is given to the author. All rights reserved.
