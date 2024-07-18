@@ -1,4 +1,4 @@
-## Premiership
+= England Premier League 2012/13
 
 Round 1
 [Aug 18]
@@ -415,14 +415,6 @@ West Bromwich 2-1 Swansea
 QPR           3-1 Sunderland
 Norwich       0-0 Southampton
 [Mar 10]
-Newcastle     2-1 Stoke
-Liverpool     3-2 Tottenham
-[Apr 16]
-Arsenal       0-0 Everton
-[Apr 17]
-West Ham      2-2 Manchester U
-Manchester C  1-0 Wigan
-Fulham        0-3 Chelsea
 
 Round 30
 [Mar 16]
