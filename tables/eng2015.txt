@@ -1,5 +1,5 @@
 <!--
-   source: http://rsssf.com/tablese/eng2015.html
+   source: https://rsssf.org/tablese/eng2015.html
   -->
 
 
@@ -7,15 +7,15 @@
 ## England 2014/15
 
 =-=-=-=-=-=-=-=-=-=-=-=-=-=-=
-‹Premier League›
-‹Cup Tournaments›
-‹Championship›
-‹Division 1›
-‹Division 2›
-‹Conference›
+‹Premier League, see §premier›
+‹Cup Tournaments, see §cups›
+‹Championship, see §champ›
+‹Division 1, see §first›
+‹Division 2, see §second›
+‹Conference, see §conf›
 =-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
-#### Premier League
+#### Premier League  ‹§premier›
 
 
 Final Table:
@@ -618,12 +618,12 @@ Final Table:
 
 =-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
-#### Cup Tournaments
+#### Cup Tournaments  ‹§cups›
 
 
-‹FA Cup› | ‹League Cup›
+‹FA Cup, see §facup› | ‹League Cup, see §leaguecup›
 
-**FA Cup**
+**FA Cup  ‹§facup›**
 
 Round 1
 [Nov 7]
@@ -842,7 +842,7 @@ Aston Villa             2-1 Liverpool
 Final [May 30, London]
 Arsenal                 4-0 Aston Villa
 
-**League Cup**
+**League Cup  ‹§leaguecup›**
 
 Round 1
 [Aug 11]
@@ -973,22 +973,22 @@ Chelsea                 2-0 Tottenham Hotspur
 
 =-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
-#### Championship
+#### Championship  ‹§champ›
 
 
-‹Regular Stage› | ‹Promotion Playoff›
+‹Regular Stage, see §2reg› | ‹Promotion Playoff, see §2prom›
 
-**Regular Stage**
+**Regular Stage  ‹§2reg›**
 
 Final Table:
 
  1.AFC Bournemouth         46  26 12  8  98-45  90  Promoted
  2.Watford                 46  27  8 11  91-50  89  Promoted
 --------------------------------------------------
- 3.Norwich City            46  25 11 10  88-48  86  ‹Promotion Playoff›
- 4.Middlesbrough           46  25 10 11  68-37  85  ‹Promotion Playoff›
- 5.Brentford               46  23  9 14  78-59  78  ‹Promotion Playoff›
- 6.Ipswich Town            46  22 12 12  72-54  78  ‹Promotion Playoff›
+ 3.Norwich City            46  25 11 10  88-48  86  ‹Promotion Playoff, see §2prom›
+ 4.Middlesbrough           46  25 10 11  68-37  85  ‹Promotion Playoff, see §2prom›
+ 5.Brentford               46  23  9 14  78-59  78  ‹Promotion Playoff, see §2prom›
+ 6.Ipswich Town            46  22 12 12  72-54  78  ‹Promotion Playoff, see §2prom›
  - - - - - - - - - - - - - - - - - - - - - - - - -
  7.Wolverhampton Wanderers 46  22 12 12  70-56  78
  8.Derby County            46  21 14 11  85-56  77
@@ -999,7 +999,7 @@ Final Table:
 13.Sheffield Wednesday     46  14 18 14  43-49  60
 14.Nottingham Forest       46  15 14 17  71-69  59
 15.Leeds United            46  15 11 20  50-61  56
-16.Huddersfield Town       45  13 15 17  58-75  54
+16.Huddersfield Town       46  13 16 17  58-75  55
 17.Fulham                  46  14 10 22  62-83  52
 18.Bolton Wanderers        46  13 12 21  54-67  51
 19.Reading                 46  13 11 22  48-69  50
@@ -1008,9 +1008,9 @@ Final Table:
 --------------------------------------------------
 22.Millwall                46   9 14 23  42-76  41  Relegated
 23.Wigan Athletic          46   9 12 25  39-64  39  Relegated
-24.Blackpool               45   4 13 28  36-91  25  Relegated
+24.Blackpool               46   4 14 28  36-91  26  Relegated
 
-**Promotion Playoff**
+**Promotion Playoff  ‹§2prom›**
 
 Semifinals
 
@@ -1032,22 +1032,22 @@ Norwich       2-0 Middlesbrough
 
 =-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
-#### Division 1
+#### Division 1  ‹§first›
 
 
-‹Regular Stage› | ‹Promotion Playoff›
+‹Regular Stage, see §3reg› | ‹Promotion Playoff, see §3prom›
 
-**Regular Stage**
+**Regular Stage  ‹§3reg›**
 
 Final Table:
 
  1.Bristol City            46  29 12  5  96-38  99  Promoted
  2.Milton Keynes Dons      46  27 10  9 101-44  91  Promoted
 --------------------------------------------------
- 3.Preston North End       46  25 14  7  79-40  89  ‹Promotion Playoff›
- 4.Swindon Town            46  23 10 13  76-57  79  ‹Promotion Playoff›
- 5.Sheffield United        46  19 14 13  66-53  71  ‹Promotion Playoff›
- 6.Chesterfield            46  19 12 15  68-55  69  ‹Promotion Playoff›
+ 3.Preston North End       46  25 14  7  79-40  89  ‹Promotion Playoff, see §3prom›
+ 4.Swindon Town            46  23 10 13  76-57  79  ‹Promotion Playoff, see §3prom›
+ 5.Sheffield United        46  19 14 13  66-53  71  ‹Promotion Playoff, see §3prom›
+ 6.Chesterfield            46  19 12 15  68-55  69  ‹Promotion Playoff, see §3prom›
  - - - - - - - - - - - - - - - - - - - - - - - - -
  7.Bradford City           46  17 14 15  55-55  65
  8.Rochdale                46  19  6 21  72-66  63
@@ -1069,19 +1069,19 @@ Final Table:
 23.Leyton Orient           46  12 13 21  59-69  49  Relegated
 24.Yeovil Town             46  10 10 26  36-75  40  Relegated
 
-**Promotion Playoff**
+**Promotion Playoff  ‹§3prom›**
 
 Semifinals
 
 First Legs [May 7]
 Chesterfield  0-1 Preston
-Sheffied U    1-2 Swindon
+Sheffield U   1-2 Swindon
 
 Second Legs
 [May 10]
 Preston       3-0 Chesterfield
 [May 11]
-Swindon       5-5 Sheffied U
+Swindon       5-5 Sheffield U
 
 Final [May 24]
 Preston       4-0 Swindon
@@ -1089,12 +1089,12 @@ Preston       4-0 Swindon
 
 =-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
-#### Division 2
+#### Division 2  ‹§second›
 
 
-‹Regular Stage› | ‹Promotion Playoff›
+‹Regular Stage, see §4reg› | ‹Promotion Playoff, see §4prom›
 
-**Regular Stage**
+**Regular Stage  ‹§4reg›**
 
 Final Table:
 
@@ -1102,10 +1102,10 @@ Final Table:
  2.Shrewsbury Town         46  27  8 11  67-31  89  Promoted
  3.Bury                    46  26  7 13  60-40  85  Promoted
 --------------------------------------------------
- 4.Wycombe Wanderers       46  23 15  8  67-45  84  ‹Promotion Playoff›
- 5.Southend United         46  24 12 10  54-38  84  ‹Promotion Playoff›
- 6.Stevenage               46  20 12 14  62-54  72  ‹Promotion Playoff›
- 7.Plymouth Argyle         46  20 11 15  55-37  71  ‹Promotion Playoff›
+ 4.Wycombe Wanderers       46  23 15  8  67-45  84  ‹Promotion Playoff, see §4prom›
+ 5.Southend United         46  24 12 10  54-38  84  ‹Promotion Playoff, see §4prom›
+ 6.Stevenage               46  20 12 14  62-54  72  ‹Promotion Playoff, see §4prom›
+ 7.Plymouth Argyle         46  20 11 15  55-37  71  ‹Promotion Playoff, see §4prom›
  - - - - - - - - - - - - - - - - - - - - - - - - -
  8.Luton Town              46  19 11 16  54-44  68
  9.Newport County          46  18 11 17  51-54  65
@@ -1126,7 +1126,7 @@ Final Table:
 23.Cheltenham Town         46   9 14 23  40-67  41  Relegated
 24.Tranmere Rovers         46   9 12 25  45-67  39  Relegated
 
-**Promotion Playoff**
+**Promotion Playoff  ‹§4prom›**
 
 Semifinals
 
@@ -1146,22 +1146,21 @@ Wycombe       1-1 Southend      [aet, 6-7 pen]
 
 =-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
-#### Conference
+#### Conference  ‹§conf›
 
 
+‹Regular Stage, see §5reg› | ‹Promotion Playoff, see §5prom›
 
-‹Regular Stage› | ‹Promotion Playoff›
-
-**Regular Stage**
+**Regular Stage  ‹§5reg›**
 
 Final Table:
 
  1.Barnet                  46  28  8 10  94-46  92  Promoted
 --------------------------------------------------
- 2.Bristol Rovers          46  25 16  5  73-34  91  ‹Promotion Playoff›
- 3.Grimsby Town            46  25 11 10  74-40  86  ‹Promotion Playoff›
- 4.Eastleigh               46  24 10 12  87-61  82  ‹Promotion Playoff›
- 5.Forest Green Rovers     46  22 16  8  80-54  79  [-3]  ‹Promotion Playoff›
+ 2.Bristol Rovers          46  25 16  5  73-34  91  ‹Promotion Playoff, see §5prom›
+ 3.Grimsby Town            46  25 11 10  74-40  86  ‹Promotion Playoff, see §5prom›
+ 4.Eastleigh               46  24 10 12  87-61  82  ‹Promotion Playoff, see §5prom›
+ 5.Forest Green Rovers     46  22 16  8  80-54  79  [-3]  ‹Promotion Playoff, see §5prom›
  - - - - - - - - - - - - - - - - - - - - - - - - -
  6.Macclesfield Town       46  21 15 10  60-46  78
  7.Woking                  46  21 13 12  77-52  76
@@ -1172,7 +1171,7 @@ Final Table:
 12.Chester                 46  19  6 21  64-76  63
 13.Torquay United          46  16 13 17  64-60  61
 14.Braintree Town          46  18  5 23  56-57  59
-15.Lincoln City            46  16 10 20  62-71  59
+15.Lincoln City            46  16 10 20  62-71  58
 16.Kidderminster Harriers  46  15 12 19  51-60  57
 17.Altrincham              46  16  8 22  54-73  56
 18.Aldershot Town          46  14 11 21  51-61  53
@@ -1186,7 +1185,7 @@ Final Table:
 
 Promoted: Barrow, Bromley, Guiseley, Boreham Wood
 
-**Promotion Playoff**
+**Promotion Playoff  ‹§5prom›**
 
 Semifinals
 
@@ -1206,26 +1205,30 @@ Bristol R     1-1 Grimsby       [aet, 5-3 pen]
 
 =-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
-‹2013/14›.
+‹2013/14, see page eng2014›.
 
-‹list of champions›.
+‹2015/16, see page eng2016›.
 
-‹list of 2nd division champions›.
+‹list of champions, see page engchamp›.
 
-‹list of full tables›.
+‹list of 2nd division champions, see page eng2champ›.
 
-‹list of divisional movements›.
+‹list of full tables, see page ../engpaul/FLA/league›.
 
-‹list of cup winners›.
+‹list of divisional movements, see page engall›.
 
-‹list of super cup (charity shield) winners›.
+‹list of cup winners, see page engcuphist›.
 
-‹list of league cup winners›.
+‹list of super cup (charity shield) winners, see page engsupcuphist›.
 
-‹list of league trophy winners›.
+‹list of league cup winners, see page engleagcuphist›.
+
+‹list of league trophy winners, see page engassmembcuphist›.
 =-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
-## About this document
+## About this document  ‹§about›
+
+Thanks to Martin Arenlind
 
 Prepared and maintained by Ian King and Karel Stokkermans for the
 ‹Rec.Sport.Soccer Statistics Foundation›
@@ -1233,9 +1236,9 @@ Prepared and maintained by Ian King and Karel Stokkermans for the
 
 Authors: Ian King and Karel Stokkermans
 
-Last updated: 4 Jun 2015
+Last updated: 14 Jan 2021
 
 
-**(C) Copyright Ian King, Karel Stokkermans and RSSSF 2014/15**
+**(C) Copyright Ian King, Karel Stokkermans and RSSSF 2014/21**
 You are free to copy this document in whole or part provided that proper
 acknowledgement is given to the authors. All rights reserved.
