@@ -1,4 +1,4 @@
-## FA Cup
+= England FA Cup 2011/12
 
 Round 1
 [Nov 11]
@@ -34,7 +34,7 @@ Oldham Athletic         3-1 Burton Albion
 Plymouth Argyle         3-3 Stourbridge
 Port Vale               0-0 Grimsby Town
 Preston North End       0-0 Southend United
-Redbridge Forest        0-0 Oxford City
+Redbridge FC            0-0 Oxford City
 Sheffield United        3-0 Oxford United
 Southport               1-2 Barnet
 Sutton United           1-0 Kettering Town
@@ -51,7 +51,7 @@ Stourbridge             2-0 Plymouth Argyle
 Aldershot Town          2-0 Maidenhead United
 Gillingham              3-2 Bournemouth
 Grimsby Town            1-0 Port Vale
-Oxford City             1-2 Redbridge Forest        [aet]
+Oxford City             1-2 Redbridge FC            [aet]
 Scunthorpe United       0-1 AFC Wimbledon
 Southend United         1-0 Preston North End
 Tamworth                1-0 Hinckley United
@@ -71,7 +71,7 @@ Brentford               0-1 Wrexham
 Charlton Athletic       2-0 Carlisle United
 Chelmsford City         1-1 Macclesfield Town
 Colchester United       0-1 Swindon Town
-Crawley Town            5-0 Redbridge Forest
+Crawley Town            5-0 Redbridge FC
 Dagenham & Redbridge    1-1 Walsall
 Gateshead               1-2 Tamworth
 Leyton Orient           0-1 Gillingham
