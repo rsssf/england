@@ -4,14 +4,14 @@
 football.db RSSSF (Rec.Sport.Soccer Statistics Foundation) Archive Data for
 England (and Wales)
 
-_Last Update: 2024-07-19 15:32:55 +0200_
+_Last Update: 2024-07-19 16:00:18 +0200_
 
 | Season | League, Cup | Errors |
 | :----- | :---------- | -----: |
 | 2023-24 | [1-premierleague.txt](2023-24/1-premierleague.txt) |  OK  |
 | 2022-23 | [1-premierleague.txt](2022-23/1-premierleague.txt) |  OK  |
 | 2021-22 | [1-premierleague.txt](2021-22/1-premierleague.txt) |  OK  |
-| 2020-21 | [1-premierleague.txt](2020-21/1-premierleague.txt) |  **!! 3**  |
+| 2020-21 | [1-premierleague.txt](2020-21/1-premierleague.txt) |  **!! 1**  |
 | 2019-20 | [1-premierleague.txt](2019-20/1-premierleague.txt) |  OK  |
 | 2018-19 | [1-premierleague.txt](2018-19/1-premierleague.txt) |  OK  |
 | 2017-18 | [1-premierleague.txt](2017-18/1-premierleague.txt) |  OK  |
@@ -34,13 +34,9 @@ _Last Update: 2024-07-19 15:32:55 +0200_
 | 2010-11 | [leaguecup.txt](2010-11/leaguecup.txt) |  **!! 1**  |
 
 
-13 errors in 24 datafile(s)
+11 errors in 24 datafile(s)
 
 ```
-2020-21/1-premierleague.txt -- parse error (INSIDE_RE) - skipping >D&< @28,30
-     in line >[Salah 4pen, 33, 88pen, Van D&<
-2020-21/1-premierleague.txt -- parse error (INSIDE_RE) - skipping >0-< @16,17
-     in line >West Ham      0-2 Newcastle<
 2020-21/1-premierleague.txt -- parse error (INSIDE_RE) - skipping >G&< @22,25
      in line >[Bernardo Silva 79, G&uml;ndogan 90pen]<
 2014-15/facup.txt -- warn - no heading for 12 text paragraph(s); skipping parse
