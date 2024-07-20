@@ -9,7 +9,7 @@ England (and Wales)
 | 2023-24 | [1-premierleague.txt](2023-24/1-premierleague.txt) |  OK  |
 | 2022-23 | [1-premierleague.txt](2022-23/1-premierleague.txt) |  OK  |
 | 2021-22 | [1-premierleague.txt](2021-22/1-premierleague.txt) |  OK  |
-| 2020-21 | [1-premierleague.txt](2020-21/1-premierleague.txt) |  **!! 1**  |
+| 2020-21 | [1-premierleague.txt](2020-21/1-premierleague.txt) |  OK  |
 | 2019-20 | [1-premierleague.txt](2019-20/1-premierleague.txt) |  OK  |
 | 2018-19 | [1-premierleague.txt](2018-19/1-premierleague.txt) |  **!! 1**  |
 | 2017-18 | [1-premierleague.txt](2017-18/1-premierleague.txt) |  **!! 1**  |
@@ -32,11 +32,9 @@ England (and Wales)
 | 2010-11 | [leaguecup.txt](2010-11/leaguecup.txt) |  OK  |
 
 
-6 errors in 24 datafile(s)
+5 errors in 24 datafile(s)
 
 ```
-2020-21/1-premierleague.txt -- parse error (INSIDE_RE) - skipping >G&< @22,25
-     in line >[Bernardo Silva 79, G&uml;ndogan 90pen]<
 2018-19/1-premierleague.txt -- warn - heading with no text paragraph(s)
 2017-18/1-premierleague.txt -- warn - heading with no text paragraph(s)
 2016-17/1-premierleague.txt -- warn - heading with no text paragraph(s)
